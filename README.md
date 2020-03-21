@@ -1,2 +1,1 @@
-# vita-max
-# vita-max
+Django app for tracker eating and health patterns
